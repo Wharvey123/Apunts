@@ -2,33 +2,28 @@
 1. Reconeixement
 - Pasiva sense interaccio
 - Activa amb interaccio
-----------
 nmap, maltego, shodan
 ----------
 2. Escaneig
 - Ports
 - Vulnerabilitats
 - Xarxa
-----------
 nessus, wireshark, OpenVAS
 ----------
 3. Acces
 - Força bruta
 - Explotacio vulnerabilitats
 - Injeccio SQL
-----------
 Hydra, Metasploit, SQLmap
 ----------
 4. Manteniment d'acces
 - Keylogger
 - Backdoors
-----------
 Meterpreter, Netcat
 ----------
 5. Esborrat d'empremtes
 - Eliminar logs
 - Tecniques d'evasio
-----------
 Ccleaner, LogWiper, BleachBit
 ----------
 # SERVEI DNS
