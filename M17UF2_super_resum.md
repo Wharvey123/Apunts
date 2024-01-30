@@ -119,10 +119,10 @@ sol:
 	- basat en XML
 	- disposa d'un esquema XML determinat.
 	- format dels missatges, les regles d'intercanvi de missatges, gestió d'errors, etc
-1. SOAP Envelope: element arrel que identifica el missatge com un missatge SOAP.
-2. SOAP Header: informació sobre autenticació, codificació de dades, i instruccions sobre com processar el missatge.
-3. SOAP Body: la informació principal a ser intercanviada entre les aplicacions.
-4. SOAP Fault: conté informació sobre errors en cas que es produeixin.
+		1. **SOAP Envelope**: element arrel que identifica el missatge com un missatge SOAP.
+		2. **SOAP Header**: informació sobre autenticació, codificació de dades, i instruccions sobre com processar el missatge.
+		3. **SOAP Body**: la informació principal a ser intercanviada entre les aplicacions.
+		4. **SOAP Fault**: conté informació sobre errors en cas que es produeixin.
 
 vuln:
 - Divulgacio WSDL: arxius WSDL d'un servei web estan exposats o accessibles públicament.
@@ -141,16 +141,17 @@ sol:
 - Gateways: Ponts entre la xarxa de telefonia tradicional i la xarxa IP.
 - Gatekeepers: Gestiona connexió i l'autorització d'accés en xarxes VoIP basades en H323.
 
-Avantatges
-	1. Cost Reduït: 
+- Avantatges
+  	1. Cost Reduït: 
 	2. Flexibilitat: fer i rebre trucades des de qualsevol lloc amb accés a Internet.
 	3. Altres Serveis: Facilita la integració amb altres serveis basats en IP.
-Inconvenients
-	1. Dependència: Requereix una connexió a Internet estable i de bona qualitat.
+
+- Inconvenients
+  	1. Dependència: Requereix una connexió a Internet estable i de bona qualitat.
 	2. Latència: Pot experimentar retards o variacions en la transmissió de veu.
 	3. Seguretat: Pot ser més susceptible a atacs cibernètics.
 
-Protocols:
+- Protocols:
 	- RTP: Maneja la lliurament de dades en temps real, com ara l'àudio i vídeo.
 	- RTCP: Conjunt amb RTP per proporcionar informació de control i monitorització.
 	- H323: Un dels primers protocols estàndards utilitzats en VoIP.
