@@ -142,14 +142,14 @@ sol:
 - Gatekeepers: Gestiona connexió i l'autorització d'accés en xarxes VoIP basades en H323.
 
 - Avantatges
-  	1. Cost Reduït: 
-	2. Flexibilitat: fer i rebre trucades des de qualsevol lloc amb accés a Internet.
-	3. Altres Serveis: Facilita la integració amb altres serveis basats en IP.
+	- Cost Reduït: 
+	- Flexibilitat: fer i rebre trucades des de qualsevol lloc amb accés a Internet.
+	- Altres Serveis: Facilita la integració amb altres serveis basats en IP.
 
 - Inconvenients
-  	1. Dependència: Requereix una connexió a Internet estable i de bona qualitat.
-	2. Latència: Pot experimentar retards o variacions en la transmissió de veu.
-	3. Seguretat: Pot ser més susceptible a atacs cibernètics.
+	- Dependència: Requereix una connexió a Internet estable i de bona qualitat.
+	- Latència: Pot experimentar retards o variacions en la transmissió de veu.
+	- Seguretat: Pot ser més susceptible a atacs cibernètics.
 
 - Protocols:
 	- RTP: Maneja la lliurament de dades en temps real, com ara l'àudio i vídeo.
