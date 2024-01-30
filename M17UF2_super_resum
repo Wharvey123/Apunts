@@ -54,7 +54,6 @@ vuln:
 1. Login-Password (no garanteix qui pot ser)
 2. Contrasenyes en text clar
 3. No xifra la sessio FTP
-
 - força bruta
 - rebot FTP
 - Extra (massa admins, mala config, serv no actualitzat, falta d'alertes)
