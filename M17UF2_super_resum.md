@@ -84,12 +84,12 @@ sol:
 - Llista blanca (permet) i Llista negra (bloqueija)
 - Extra (contrasenyes fortes, limitar admins, desabilitar anon, permisos)
 
-FTP Actiu: 
-	1. Canal de Comandes: Client (port aleatori) → Servidor (port 21).
-	2. Canal de Dades: Servidor (port aleatori) → Client (port 20).
-FTP Pasiu (millor per al client): 
-	1. Canal de Comandes: Client (port aleatori) → Servidor (port 21).
-	2. Canal de Dades: Client (port aleatori) → Servidor (port aleatori).
+1. FTP Actiu: 
+	- Canal de Comandes: Client (port aleatori) → Servidor (port 21).
+ 	- Canal de Dades: Servidor (port aleatori) → Client (port 20).
+2. FTP Pasiu (millor per al client):
+   	- Canal de Comandes: Client (port aleatori) → Servidor (port 21).
+   	- Canal de Dades: Client (port aleatori) → Servidor (port aleatori).
 
 # SERVEI CORREU ELECTRONIC
 
