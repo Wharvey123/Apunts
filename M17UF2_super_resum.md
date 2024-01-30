@@ -101,7 +101,7 @@ sol:
 - SPF: verificar que pertanyen a un domini o IP autoritzat
 - DKIM: verificar que no s'aguin moficiat els correus durant el transit
 - DMARC: combina SPF i DKIM per validar l'origen de correus
-- OpenPGP: estandard de codi obert per akl xifratge i signatura digital
+- OpenPGP: estandard de codi obert per al xifratge i signatura digital
 	1. Comprova l'autenticitat i integritat
 	2. Xifra el contingut del correu
 - Extra (antimalware, precaucio, combrovar domini [whois], separar personal i corporatiu)
