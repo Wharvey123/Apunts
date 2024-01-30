@@ -104,7 +104,7 @@ sol:
 - OpenPGP: estandard de codi obert per al xifratge i signatura digital
 	1. Comprova l'autenticitat i integritat
 	2. Xifra el contingut del correu
-- Extra (antimalware, precaucio, combrovar domini [whois], separar personal i corporatiu)
+- Extra (antimalware, precaucio, comprovar domini [whois], separar personal i corporatiu)
 
 # SERVEI WEB
 - Service Provider: Ofereix i implementa el servei web.
