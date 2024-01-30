@@ -52,6 +52,16 @@ sol:
 - DNS sobre TLS (port 853) confidencialitat i integritat
 - DNS sobre HTTPS (port 443) privadesa i encriptacio
 
+# DNS
+
+| SECCION     | Descripción |
+|-------------|--------------------------------------------------------------------|
+| HEADER      | Contiene información sobre el tipo de mensaje. Incluye campos que informan sobre el número de entradas en otras secciones del mensaje. |
+| QUESTION    | Contiene una o más solicitudes de información (queries) que se envían al servidor DNS. |
+| ANSWER      | Contiene uno o más registros que responden a la(s) solicitud(es). |
+| AUTHORITY   | Contiene uno o más registros que apuntan al servidor autoritativo del dominio en cuestión. |
+| ADDITIONAL  | Registros con información adicional no necesaria para responder a la query. |
+
 # SERVEI FTP
 - transferir fitxers
 - port 20 (dades) i port 21 (comandes)
