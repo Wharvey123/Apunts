@@ -119,10 +119,10 @@ sol:
 	- basat en XML
 	- disposa d'un esquema XML determinat.
 	- format dels missatges, les regles d'intercanvi de missatges, gestió d'errors, etc
-	1. SOAP Envelope: element arrel que identifica el missatge com un missatge SOAP.
-	2. SOAP Header: informació sobre autenticació, codificació de dades, i instruccions sobre com processar el missatge.
-	3. SOAP Body: la informació principal a ser intercanviada entre les aplicacions.
-	4. SOAP Fault: conté informació sobre errors en cas que es produeixin.
+1. SOAP Envelope: element arrel que identifica el missatge com un missatge SOAP.
+2. SOAP Header: informació sobre autenticació, codificació de dades, i instruccions sobre com processar el missatge.
+3. SOAP Body: la informació principal a ser intercanviada entre les aplicacions.
+4. SOAP Fault: conté informació sobre errors en cas que es produeixin.
 
 vuln:
 - Divulgacio WSDL: arxius WSDL d'un servei web estan exposats o accessibles públicament.
