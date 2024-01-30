@@ -24,7 +24,7 @@ Ccleaner, LogWiper, BleachBit
 - actualitzacions dinamiques
 - transferencies de zona
 - notificacions
-
+----------
 - BASE: SO, bind, xarxa
 - DADES: Parametres, registres de zona, transaccions
 
