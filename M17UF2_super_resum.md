@@ -25,8 +25,8 @@ Ccleaner, LogWiper, BleachBit
 - transferencies de zona
 - notificacions
 
-BASE: SO, bind, xarxa
-DADES: Parametres, registres de zona, transaccions
+- BASE: SO, bind, xarxa
+- DADES: Parametres, registres de zona, transaccions
 
 vuln:
 1. Locals
